@@ -4,3 +4,6 @@ langdetect
 llama-index[llms-ollama]
 faiss-cpu
 sentence-transformers
+pandas
+langchain
+deep-translator
